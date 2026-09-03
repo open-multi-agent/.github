@@ -18,9 +18,9 @@
 <p align="center">
   <a href="#how-we-help-companies"><strong>For companies →</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://open-multi-agent.com/?utm_source=github&amp;utm_medium=org_profile&amp;utm_campaign=open_multi_agent">Explore OMA →</a>
+  <a href="https://open-multi-agent.com/?utm_source=github&amp;utm_medium=org_readme&amp;utm_campaign=open_multi_agent">Explore OMA →</a>
   &nbsp;·&nbsp;
-  <a href="https://open-multi-agent.com/getting-started/introduction/?utm_source=github&amp;utm_medium=org_profile&amp;utm_campaign=open_multi_agent">Documentation →</a>
+  <a href="https://open-multi-agent.com/getting-started/introduction/?utm_source=github&amp;utm_medium=org_readme&amp;utm_campaign=open_multi_agent">Documentation →</a>
 </p>
 
 ## About the organization
@@ -38,7 +38,7 @@ OMA turns a goal into a task DAG at runtime—or executes an explicit graph when
 - **Operate:** trace, evaluate, checkpoint, and resume runs on cloud or local models.
 - **Own the environment:** run on your infrastructure and credentials, including private and offline deployments.
 
-[Run the no-key Quick Start →](https://open-multi-agent.com/getting-started/quick-start/?utm_source=github&utm_medium=org_profile&utm_campaign=open_multi_agent) · [Browse the repository →](https://github.com/open-multi-agent/open-multi-agent)
+[Run the no-key Quick Start →](https://open-multi-agent.com/getting-started/quick-start/?utm_source=github&utm_medium=org_readme&utm_campaign=open_multi_agent) · [Browse the repository →](https://github.com/open-multi-agent/open-multi-agent)
 
 ## How we help companies
 
@@ -54,4 +54,4 @@ Commercial inquiries: [co@yuanasi.com](mailto:co@yuanasi.com?subject=Open%20Mult
 
 OMA is already used in publicly verifiable security analysis, pull-request review, coding assistants, document workflows, and fully offline deployments.
 
-[Browse projects built with OMA →](https://open-multi-agent.com/showcase/?utm_source=github&utm_medium=org_profile&utm_campaign=open_multi_agent)
+[Browse projects built with OMA →](https://open-multi-agent.com/showcase/?utm_source=github&utm_medium=org_readme&utm_campaign=open_multi_agent)
