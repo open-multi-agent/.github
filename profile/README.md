@@ -25,7 +25,7 @@
 
 ## About the organization
 
-Open Multi-Agent is the public open-source organization behind **OMA**, a TypeScript-native orchestration framework for building multi-agent systems that can be approved, traced, evaluated, and resumed. OMA is built by [YuanASI](https://yuanasi.com/en?utm_source=github&utm_medium=org_profile&utm_campaign=open_multi_agent), which provides commercial engineering and support for teams moving agent systems from scope to production.
+Open Multi-Agent is the public open-source organization behind **OMA**, a TypeScript-native orchestration framework for building multi-agent systems that can be approved, traced, evaluated, and resumed. OMA is built and maintained by [YuanASI (Shenzhen YuanASI Technology Co., Ltd.)](https://yuanasi.com/en?utm_source=github&utm_medium=org_profile&utm_campaign=open_multi_agent), which provides commercial engineering and support for teams moving agent systems from scope to production.
 
 ## What we build
 
