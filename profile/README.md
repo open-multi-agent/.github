@@ -4,11 +4,11 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/open-multi-agent/open-multi-agent/main/.github/brand/logo-mark-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/open-multi-agent/open-multi-agent/main/.github/brand/logo-mark-light.svg">
-    <img alt="Open Multi-Agent" src="https://raw.githubusercontent.com/open-multi-agent/open-multi-agent/main/.github/brand/logo-mark-light.svg" width="88">
+    <img alt="OMA" src="https://raw.githubusercontent.com/open-multi-agent/open-multi-agent/main/.github/brand/logo-mark-light.svg" width="88">
   </picture>
 </p>
 
-<h1 align="center">Open Multi-Agent</h1>
+<h1 align="center">OMA</h1>
 
 <p align="center">
   <strong>Open-source infrastructure for controlled, inspectable agent teams.</strong><br>
@@ -25,11 +25,11 @@
 
 ## About the organization
 
-Open Multi-Agent is the public open-source organization behind **OMA**, a TypeScript-native orchestration framework for building multi-agent systems that can be approved, traced, evaluated, and resumed. OMA is built and maintained by [YuanASI (Shenzhen YuanASI Technology Co., Ltd.)](https://yuanasi.com/en?utm_source=github&utm_medium=org_profile&utm_campaign=open_multi_agent), which provides commercial engineering and support for teams moving agent systems from scope to production.
+**OMA** (Open Multi-Agent) is a TypeScript-native orchestration framework for building multi-agent systems that can be approved, traced, evaluated, and resumed. It is built and maintained by [YuanASI (Shenzhen YuanASI Technology Co., Ltd.)](https://yuanasi.com/en?utm_source=github&utm_medium=org_profile&utm_campaign=open_multi_agent), which provides commercial engineering and support for teams moving agent systems from scope to production.
 
 ## What we build
 
-### [Open Multi-Agent (OMA)](https://github.com/open-multi-agent/open-multi-agent)
+### [OMA](https://github.com/open-multi-agent/open-multi-agent)
 
 OMA turns a goal into a task DAG at runtime—or executes an explicit graph when the workflow must stay fixed.
 
@@ -48,7 +48,7 @@ YuanASI works with teams that need more than an open-source library alone:
 - **Multi-Agent System Integration:** architecture, internal-system integration, private deployment, reliability tuning, and team handoff.
 - **Enterprise AI Advisory:** use-case assessment, technical design, POCs, ROI analysis, and delivery roadmaps.
 
-Commercial inquiries: [co@yuanasi.com](mailto:co@yuanasi.com?subject=Open%20Multi-Agent%20inquiry%20from%20GitHub)
+Commercial inquiries: [co@yuanasi.com](mailto:co@yuanasi.com?subject=OMA%20inquiry%20from%20GitHub)
 
 ## Open source in the real world
 
